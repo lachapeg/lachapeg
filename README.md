@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🎆:
+
+- I am currently doing my thesis in the Schrobilgen Lab - Synthesis and Characterization of Cl(V) and Br(V) Compounds
+- In my free time I like to hike, play basketball, and watch movies 🎥
 
 <!--
 **lachapeg/lachapeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
